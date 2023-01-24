@@ -1,0 +1,24 @@
+.textos1{
+    font-family: 'Abhaya Libre ExtraBold';
+
+}
+
+.logo2{
+
+    width: 150px;
+    margin-top: 50px;
+
+}
+
+.textdecoratornone {
+    text-decoration: none !important;
+}
+
+.btnlogin{
+    background-color:#BC363A!important;
+    color: white !important;
+}
+
+.entrar{
+    margin-top: -100px;
+}

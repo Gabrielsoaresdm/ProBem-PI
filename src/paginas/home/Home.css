@@ -1,0 +1,82 @@
+
+.img1 {
+    width: 500px;
+    mix-blend-mode: darken;
+    margin-top: 4rem;
+    position: relative;
+
+}
+
+.pro {
+   
+   margin-left: 5rem;
+    width: 550px;
+    font-family: 'Abhaya Libre ExtraBold';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 60px;
+    line-height: 110px;
+    /* or 110% */
+
+    letter-spacing: -0.04em;
+    color: #393939;
+    mix-blend-mode: luminosity;
+}
+
+.criando {
+    position: absolute;
+    width: 532px;
+    left: 85px;
+    top: 480px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 50px;
+    /* or 227% */
+
+    letter-spacing: 0.02em;
+
+    /* Subtitles */
+
+    color: #425466;
+
+    mix-blend-mode: luminosity;
+}
+
+.botao1 {
+    position: absolute;
+    width: 160px;
+    height: 46px;
+    left: 80px;
+    top: 633px;
+    background: #BC363A;
+    border-radius: 4px;
+    color: white;
+    border-color: #BC363A;
+}
+.botao2 {
+    position: absolute;
+    width: 160px;
+    height: 46px;
+    left: 280px;
+    top: 633px;
+    background: #DEB93C;
+    border-radius: 4px;
+    color: white;
+    border-color: #DEB93C;
+}
+
+.botao1:hover{
+        cursor: pointer;
+        
+}
+.botao2:hover{
+    cursor: pointer;
+}
+
+/* .Grid{
+    margin-bottom: 5rem;
+} */
+

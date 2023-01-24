@@ -1,0 +1,31 @@
+.text-decorator-none {
+    text-decoration: none;
+}
+
+.card-w {
+    width: 300px;
+}
+
+.btn-cadastro1 {
+    background-color: rgba(242, 104, 104, 1) !important;
+    position: absolute;
+    top: -40px;
+
+
+}
+
+.doa {
+    font-family: 'Abhaya Libre ExtraBold';
+    color: #292828;
+    font-style: normal;
+    font-size: 40px;
+    line-height: 110px;
+    letter-spacing: -0.04em;
+    text-align: center;    
+}
+.display{
+    display: flex !important;
+    justify-content: space-between;
+    
+
+}

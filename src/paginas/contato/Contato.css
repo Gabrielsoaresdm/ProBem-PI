@@ -1,0 +1,73 @@
+/* .caixa_texto{
+    width: 600px;
+    height: auto;
+}
+
+.caixa_msg{
+    width: 600px;
+    height: 300px;
+}
+
+.imagem4{
+    background-image: url(https://s3-alpha-sig.figma.com/img/744c/c21f/2309757b9f043d9e9fa9745b85809000?Expires=1672012800&Signature=hyVfLG~sC9EskVh80KB7RbxIZXeiYvTrCTmkHjlEmghAkpc4kKwaeLeRyNF5MLDSDUSVdbAeACSZr~Pw6A0StscmTgVsMUwbxUuK6UeoV9yq7VoorchO9ISgnjo8iSyiFmem0jRErN5QrkQNjC2v6KbtFdAhUdbE47esqieSw9z5igDX9ybUHlS3xcb5E4kj0nh0aW~xec6k26GQcIZhMmnF8hVTK0r9vm6yobIJ6XScefa6Fh8zPKQGe-seglBKRawLZuirhGl5kQGc9zO903eWIVJyPgXqV-r0PD4DrchjqutIfC1eiFNbkiNxmhkM2wOcnhXqOq7JQDE2ryGayA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA);
+    background-repeat: no-repeat; 
+    position: absolute;
+    width: 115px;
+    height: 107px;
+
+    background-size: cover;
+    background-position: center;
+    margin-top: 30px;
+    margin-bottom: -150px;
+}
+
+.border45{
+    border: 2px solid black;
+    padding: 1cm;
+    border-radius: 40px;
+} */
+
+
+
+
+
+.imgcont{
+    width: 150px;
+    margin-top: 50px;
+
+
+}
+
+
+.typo{
+    font-family: 'Abhaya Libre ExtraBold';
+    padding: 10px;
+}
+  
+  .title{
+    margin-bottom: 14px;
+  }
+  
+  .form{
+    max-width: 600px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding-top: 30px;
+  }
+  
+  .button{
+    margin-top: 1rem;
+    height: 34px;
+    border-radius: 4px;
+    border: 0;
+    cursor: pointer;
+    background-color: #BC363A;
+    font-size: 18px;
+    transition: background-color, transform 0.8s;
+  }
+  
+  .button:hover{
+    background-color: #BC363A;
+    transform: scale(1.01);
+  }

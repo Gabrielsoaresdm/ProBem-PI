@@ -1,0 +1,17 @@
+.topo{
+    margin-top: 20px;
+}
+
+.cadastro{
+    display: flex;
+    
+}
+
+.topo{
+    margin-top: 23px;
+}
+
+.btn-cadastro{
+    background-color:rgba(255, 129, 129, 1) !important;
+  
+}
